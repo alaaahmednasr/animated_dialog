@@ -9,4 +9,4 @@ Whether you need simple alerts, confirmation dialogs, this package provides a se
 To use this package, add animated_dialog as a dependency in your pubspec.yaml file.
 And add this import to your file.
 
-import 'package:animated_dialog/animated_dialog.dart';
+import 'package:cool_animated_dialog/animated_dialog.dart';

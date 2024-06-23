@@ -1,4 +1,4 @@
-import 'package:animated_dialog/animated_dialog.dart';
+import 'package:cool_animated_dialog/animated_dialog.dart';
 import 'package:flutter/material.dart';
 
 void main() {

@@ -1,6 +1,6 @@
-name: animated_dialog
+name: cool_animated_dialog
 description: "Animated Dialog is package that provides seamless solutions for alerts and confirmation dialogs with appealing animations"
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/alaaahmednasr/animated_dialog.git
 
 environment:
