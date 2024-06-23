@@ -41,6 +41,7 @@ class MyHomePage extends StatelessWidget {
                 await showDialog(
                   context: context,
                   builder: (context) {
+                    // import our package class here
                     return CustomAnimatedDialog(
                       context: context,
                       dialogAnimatedIconPath: "assets/animatedIcon.json",
